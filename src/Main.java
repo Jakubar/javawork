@@ -6,7 +6,7 @@ public class Main {
         MobilePhone oldPhone = new MobilePhone("4000g");
         System.out.println(oldPhone.weight);
 
-        MobilePhone smartPhone = new MobilePhone ("20g");
+        MobilePhone smartPhone = new MobilePhone ("30g");
         System.out.println(smartPhone.weight);
     }
 }
